@@ -1,0 +1,475 @@
+﻿StoreCode,lat,lon,HEAD,Area_manager,Supervisor,District,Main_City,City,Format,Growth_Phase,Status
+P090,26.36859681,50.05849954,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Destination,Pipeline,Operating
+P215,26.20294842,50.1888889,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Al-khober,Convenient,Organic,Operating
+P216,26.41005809,50.11067428,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Organic,Operating
+P217,26.44389133,50.08062817,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Destination,Organic,Operating
+P218,26.36588857,50.06944708,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Organic,Operating
+P229,26.42039455,50.02197454,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Organic,Operating
+P237,26.29419824,50.21745074,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Al-khober,Convenient,Organic,Operating
+P246,26.38181311,50.07096444,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Organic,Operating
+P262,26.45962378,50.0612007,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P285,26.36745628,49.96436381,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Organic,Operating
+P310,26.28362454,50.19985949,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Al-khober,Convenient,Child,Operating
+P326,26.99640697,49.64519726,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Child,Operating
+P353,26.36851032,50.12494007,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Plaza,Child,Operating
+P365,26.43689126,50.08422219,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Child,Operating
+P381,26.43689086,50.08422174,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P392,26.40843963,50.01500194,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Child,Operating
+P408,26.36416874,50.09562551,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P422,26.37845667,50.04904304,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P439,26.38020647,50.00314656,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P442,26.30377749,50.17433263,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Al-khober,Plaza,Infant,Operating
+P447,26.32892973,50.00441279,Diaa Jaber,Nour Saad,A. Abdul-Aty,East,Dammam,Dammam,Convenient,Infant,Operating
+P015,21.48210504,39.18338641,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P022,21.48507927,39.18352851,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P031,21.49788684,39.26549311,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P033,21.48730678,39.19061832,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P058,21.49888261,39.27700122,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P138,21.32733279,39.24736089,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Provider,Child,Operating
+P143,21.49417266,39.17984499,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P144,21.3125769,39.26073091,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P146,21.48075363,39.25735529,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P154,21.49795735,39.28794301,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P172,21.49668607,39.26569569,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P199,21.39851146,39.28555395,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P200,21.40115077,39.27769327,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P255,21.50796202,39.17970373,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Provider,Organic,Operating
+P291,21.45996059,39.24644935,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P300,21.52265161,39.23960948,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P306,21.48604118,39.18256775,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P360,21.42456093,39.36112341,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Child,Operating
+P373,21.32807758,39.25321663,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Child,Operating
+P374,21.29547243,39.26234162,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P418,21.43828536,39.25083455,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P461,21.39727904,39.27533309,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P486,21.58347837,39.21141449,M. Salem,I.Elmasry,A. Mersal,Jeddah,JED-2,Jeddah,No Data,Pipeline,Pipeline
+P003,21.47784853,39.78894436,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P006,21.38419698,39.7872222,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P009,21.51204363,39.78008203,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P013,21.55804203,39.77554142,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P024,21.36685827,39.79442524,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P027,21.46025302,39.80989216,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P041,21.31675016,39.68322619,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Provider,Organic,Operating
+P087,21.40060331,39.78433197,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Provider,Child,Operating
+P089,21.4779549,39.7932778,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P091,21.39025059,39.78649464,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Destination,Organic,Operating
+P096,21.55311944,39.78158295,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P112,21.42008051,39.82815112,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Haram,Organic,Operating
+P126,21.52727002,39.78715844,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P191,21.44713718,39.76348994,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P193,21.37305896,39.80020425,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P196,21.37899264,39.80322064,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P210,21.43413919,39.79347155,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P231,21.33534537,39.69243733,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P232,21.33968605,39.69538373,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P330,21.62135104,39.70233138,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Destination,Child,Operating
+P350,21.41936748,39.82425991,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Haram,Child,Operating
+P484,21.61552992,39.69186013,Husien Wagieh,A.Salem,A.Abdul Latif,Makkah,Makkah,Makkah,Convenient,Infant,Operating
+P045,21.33827768,40.45588673,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P049,21.24212662,40.41083283,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Destination,Organic,Operating
+P053,21.92270861,42.02852619,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P059,21.26982582,40.39781345,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P061,21.2989216,40.42770962,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P067,21.27944994,40.40056268,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P076,21.26248644,40.39619772,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P078,21.85595039,40.99806271,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P085,21.33817924,40.43913451,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P086,21.28748234,40.44396941,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P095,21.32024203,40.43298929,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P122,21.26799123,40.41023249,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P124,21.26077813,40.40883333,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Child,Operating
+P127,21.22457006,40.41139763,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P130,21.22668582,40.37719982,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P132,21.29794963,40.39093815,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P139,21.25105983,42.84516536,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Infant,Operating
+P140,21.05807631,41.00543746,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P197,21.91230169,42.02879223,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P211,21.22132678,40.37181096,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P214,21.28416555,40.43242887,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Organic,Operating
+P319,21.27524764,40.43340438,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Child,Operating
+P440,21.22772642,40.37838823,HEAD4,I.Elsokkary,A.Barakat,Taif,Taif,Taif,Convenient,Infant,Operating
+P108,17.48761378,47.10111843,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Sharorah,Convenient,Child,Operating
+P185,17.48135939,42.67722346,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Alhaqo,Convenient,Infant,Operating
+P242,17.74207962,42.28104929,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Aldarb,Convenient,Organic,Operating
+P257,16.60435934,42.93635121,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Samtah,Convenient,Organic,Operating
+P258,16.9766522,42.8339325,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Abou Areesh,Convenient,Organic,Operating
+P259,17.0355243,43.0791293,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Alardah,Convenient,Organic,Operating
+P264,17.6440383,44.4733717,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Organic,Operating
+P295,16.8923947,42.5589447,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Jizan,Convenient,Organic,Operating
+P296,17.4900772,44.1347375,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Child,Operating
+P303,16.59005624,42.92586007,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Samtah,Convenient,Child,Operating
+P322,16.9000044,42.54958294,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Jizan,Destination,Child,Operating
+P331,16.71387561,42.9463605,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Ahd Almasarha,Convenient,Child,Operating
+P340,17.50400834,44.18780236,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Infant,Operating
+P341,17.54989466,44.25384851,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Child,Operating
+P342,17.53132656,44.21033816,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Child,Operating
+P351,16.95829354,42.56674458,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Jizan,Convenient,Child,Operating
+P357,16.70147398,42.11522575,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Farasan,Convenient,Infant,Operating
+P361,18.00794464,41.67944369,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Alqahmah,Convenient,Child,Operating
+P383,16.64821106,42.94275047,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Samtah,Convenient,Infant,Operating
+P393,17.50577997,44.34147214,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Child,Operating
+P399,16.95935166,42.81801114,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Abou Areesh,Convenient,Infant,Operating
+P407,17.57777201,44.23370031,HEAD4,M.Elsayed,A.Elshenawy,South,Najran,Najran,Convenient,Infant,Operating
+P471,17.15866689,42.62733302,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Sabya,Convenient,Infant,Operating
+P481,17.02936088,43.04408249,HEAD4,M.Elsayed,A.Elshenawy,South,Jizan,Alardah,Convenient,Infant,Operating
+P236,26.47971379,50.05532331,Diaa Jaber,Nour Saad,A.Radwan,East,AlQatif,AlQatif,Convenient,Organic,Operating
+P244,25.43518022,49.57295897,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Organic,Operating
+P245,25.35418264,49.59749167,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Organic,Operating
+P250,25.36442705,49.61463222,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Organic,Operating
+P286,26.53840116,50.02515554,Diaa Jaber,Nour Saad,A.Radwan,East,AlQatif,AlQatif,Convenient,Organic,Operating
+P320,26.5192005,50.03364453,Diaa Jaber,Nour Saad,A.Radwan,East,AlQatif,AlQatif,Convenient,Child,Operating
+P343,25.37388889,49.61030572,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Child,Operating
+P352,25.34731122,49.59028089,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Child,Operating
+P355,25.32705519,49.56082136,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Child,Operating
+P363,28.41496235,45.9940146,Diaa Jaber,Nour Saad,A.Radwan,East,Hafr,Hafr,Convenient,Child,Operating
+P364,28.39387915,45.95909805,Diaa Jaber,Nour Saad,A.Radwan,East,Hafr,Hafr,Convenient,Infant,Operating
+P389,28.42538965,45.97990867,Diaa Jaber,Nour Saad,A.Radwan,East,Hafr,Hafr,Convenient,Child,Operating
+P390,25.3973634,49.59780542,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Infant,Operating
+P391,28.39989804,45.98332801,Diaa Jaber,Nour Saad,A.Radwan,East,Hafr,Hafr,Convenient,Child,Operating
+P406,25.38759158,49.60179074,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,AL-Ehsa,Convenient,Infant,Operating
+P445,26.56511049,49.99419408,Diaa Jaber,Nour Saad,A.Radwan,East,AlQatif,AlQatif,Convenient,Infant,Operating
+P448,27.47358695,48.47382035,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,Hafr,Convenient,Infant,Operating
+P449,28.44452722,48.49238825,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,Hafr,Convenient,Infant,Operating
+P492,26.277385,50.183629,Diaa Jaber,Nour Saad,A.Radwan,East,Dammam,Al-khober,Convenient,Pipeline,Pipeline
+P004,21.53603088,39.19790569,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P007,21.57033288,39.22095509,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P029,21.51311295,39.18908779,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P036,21.55737366,39.18024409,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P037,21.58383207,39.21631399,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Organic,Operating
+P038,21.54091001,39.19637079,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P042,21.56598174,39.21170822,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P044,21.57212839,39.20984124,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P048,21.55549239,39.21817239,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P110,21.51845114,39.18893767,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P119,21.57357201,39.21008298,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P149,21.57334808,39.20228271,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P153,21.55670168,39.17593758,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P155,21.60478943,39.21135642,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P165,21.52070156,39.15806275,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P248,21.54891108,39.18505523,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Organic,Operating
+P395,21.53778618,39.19591597,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Child,Operating
+P396,21.55775026,39.21355244,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Child,Operating
+P421,21.53388058,39.16558064,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Infant,Operating
+P433,21.50672469,39.18341697,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,Provider,Infant,Operating
+P491,21.30100421,39.26213932,M. Salem,I.Elmasry,A.Siddeg ,Jeddah,JED-2,Jeddah,No Data,Pipeline,Pipeline
+P002,24.49439741,39.58571969,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P005,24.51190188,39.56648833,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P014,24.48026565,39.59364014,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P019,24.45785518,39.53824054,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P101,24.43138799,39.58254487,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P120,24.42009469,39.59891715,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P184,24.47635498,39.55444068,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P186,24.38966003,39.62366386,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P415,24.4083339,39.58869215,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Infant,Operating
+P454,24.42622186,39.51233059,Husien Wagieh,I.Melegy,Abdallah Bedewi,Madinah,Madinah,Madinah,Convenient,Infant,Operating
+P121,20.01358451,42.62132966,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Child,Operating
+P128,20.01338344,42.6069722,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Organic,Operating
+P180,19.12112091,41.92172466,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Almajardha,Convenient,Organic,Operating
+P188,19.99041347,42.60119373,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Organic,Operating
+P226,19.97979851,42.59511257,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Organic,Operating
+P230,19.09785509,42.13015609,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Infant,Operating
+P233,18.53006508,42.05727448,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Mahayel Aseer,Convenient,Organic,Operating
+P238,18.93483412,41.93056131,HEAD4,M.Elsayed,Abdallah Maher,South,Abha,Bariq,Convenient,Organic,Operating
+P239,18.54382843,42.05593763,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Mahayel Aseer,Convenient,Organic,Operating
+P260,19.97831634,42.59510102,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Organic,Operating
+P261,20.00310388,42.59231949,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Child,Operating
+P263,19.10909829,41.9261296,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Almajardha,Convenient,Organic,Operating
+P293,19.12686502,42.12991934,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Namas,Convenient,Organic,Operating
+P318,20.02322182,42.62249995,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Child,Operating
+P324,19.53245804,43.51925832,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Child,Operating
+P332,19.58118977,41.96082772,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Sabt,Convenient,Child,Operating
+P426,18.54513881,42.03755528,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Mahayel Aseer,Convenient,Infant,Operating
+P427,18.53462167,42.05201703,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Mahayel Aseer,Convenient,Infant,Operating
+P429,19.57797412,41.96081121,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Infant,Operating
+P458,19.59386,42.36437,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Infant,Operating
+P473,19.99917786,42.59646915,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Provider,Infant,Operating
+P480,19.98843655,42.60093683,HEAD4,M.Elsayed,Abdallah Maher,South,Bisha,Bisha,Convenient,Infant,Operating
+P001,21.54157963,39.28857135,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P017,21.51507527,39.17206265,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P098,21.51670111,39.22343772,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P114,21.51884971,39.17016437,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P125,21.47037309,39.22038742,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P151,21.51719537,39.16561493,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P152,21.50870066,39.24693886,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P156,21.48977686,39.22290667,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P157,21.51307922,39.22593818,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P158,21.54766867,39.23922348,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P159,21.51696846,39.23148112,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P169,21.46769041,39.22603142,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P201,21.57270348,39.24156332,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P204,21.55634054,39.29166682,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P228,21.52010544,39.22280355,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Organic,Operating
+P307,21.56717302,39.24905739,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Child,Operating
+P419,21.54675141,39.29011102,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P441,21.52124432,39.19064633,M. Salem,I.Elmasry,Ahmed Nada,Jeddah,JED-2,Jeddah,Convenient,Infant,Operating
+P016,18.32868147,42.77759867,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P025,18.22446429,42.80187601,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P046,18.30339368,42.71622218,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P050,18.31674486,42.69617512,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P070,18.32686946,42.75501596,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P141,18.22360254,42.55604041,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Destination,Organic,Operating
+P175,18.25642605,42.78424122,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P176,18.23154541,42.55618966,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P178,18.30880683,42.68948491,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P179,18.33073953,42.7612491,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P209,18.30578006,42.72970198,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Al-Darb,Convenient,Organic,Operating
+P265,18.30769354,42.75310507,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Child,Operating
+P266,18.18786171,42.82502345,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Destination,Organic,Operating
+P298,18.24241231,42.61035607,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Organic,Operating
+P336,18.21911536,42.48820727,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Provider,Child,Operating
+P337,18.30563145,42.69739103,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Provider,Child,Operating
+P371,18.30771569,42.75346405,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Provider,Child,Operating
+P387,18.08561039,43.14100521,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Child,Operating
+P425,18.30353635,42.69265033,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Infant,Operating
+P451,18.26972047,42.73884167,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Infant,Operating
+P457,18.09724849,42.81035976,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Infant,Operating
+P479,18.17922106,42.82633248,HEAD4,M.Elsayed,Hamdi Eslam,South,Abha,Abha,Convenient,Infant,Operating
+P018,21.57157271,39.15851486,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P102,21.59884549,39.16447318,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P104,21.57214347,39.19012891,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Provider,Organic,Operating
+P145,21.61219095,39.16995349,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P150,21.57177131,39.13493449,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P164,21.55915078,39.11618902,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P198,21.62411813,39.20742753,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P202,21.66181594,39.13156505,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P203,21.63290432,39.14344203,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P205,21.58827989,39.14357847,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P225,21.59207582,39.14156395,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P256,21.59801752,39.16183821,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P372,21.61041037,39.19520816,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P384,21.61598823,39.12252587,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P398,21.58762632,39.13149206,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P400,21.55927195,39.13998579,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P417,21.62073327,39.1897251,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P431,21.59334668,39.18631631,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P444,21.56241869,39.16272201,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Provider,Infant,Operating
+P450,21.62427593,39.16303948,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P477,21.58113407,39.15472995,M. Salem,H.Mady,Ibrahim Elmahdi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P103,27.4731828,41.65387492,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Provider,Child,Operating
+P107,27.49869785,41.6944406,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Provider,Child,Operating
+P137,26.06236009,43.99441622,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P177,27.56798338,41.69165333,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Infant,Operating
+P270,26.09323835,44.00669123,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Organic,Operating
+P271,26.06494036,43.97415489,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Organic,Operating
+P272,25.87494737,43.52365619,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Child,Operating
+P273,26.37497888,43.90093463,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Organic,Operating
+P274,25.86615269,43.51628101,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Child,Operating
+P275,26.40573813,43.93498206,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Organic,Operating
+P276,26.36175907,43.90615496,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Organic,Operating
+P277,27.57706846,41.73143719,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Organic,Operating
+P278,27.57706919,41.73143642,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Organic,Operating
+P279,27.42001916,41.58580802,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Organic,Operating
+P304,26.30248983,44.83265156,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Child,Operating
+P346,27.90123863,42.39552363,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Child,Operating
+P354,27.54850441,41.70023485,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Provider,Child,Operating
+P368,26.30886032,44.81758256,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P369,26.06431841,43.98117826,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P370,25.99211012,43.72751559,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P397,26.32784452,44.01149347,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P452,27.52472548,41.69842214,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Provider,Infant,Operating
+P456,25.85353699,43.49985923,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Provider,Infant,Operating
+P463,27.90586051,42.38599908,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Infant,Operating
+P464,26.49122096,43.63658289,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P465,26.38819375,43.96797158,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Qassim,Qassim,Convenient,Infant,Operating
+P478,25.98822109,40.47502711,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Hail,Hail,Convenient,Pipeline,Operating
+P488,26.39664866,43.92598548,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,buraidah,buraidah,No Data,Pipeline,Pipeline
+P489,26.1061381,44.01812374,Diaa Jaber,Husain Alsayed,Islam Jaber,Riyadh,Onizah,Onizah,No Data,Pipeline,Pipeline
+P052,24.82835814,46.57014016,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P057,24.71056836,46.61404764,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P064,24.63815407,46.70882257,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P069,24.86897996,46.61879379,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P073,24.62193973,46.54780173,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P080,24.70681091,46.62607891,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P082,24.67515556,46.66449366,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P083,24.69410967,46.60594636,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Plaza,Organic,Operating
+P092,24.64893631,46.50076249,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P105,24.78816846,46.6503845,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P115,24.63763457,46.69758526,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P183,24.79916926,46.64324809,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P240,24.83346867,46.76730071,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P241,24.83921898,46.88069514,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P317,25.90213807,45.33986102,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P327,25.90494129,45.39372542,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P358,24.79788432,46.59255972,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Provider,Child,Operating
+P366,24.80524894,46.80261073,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P377,24.83755521,46.64363813,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P379,24.76580382,46.78824669,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Provider,Child,Operating
+P402,24.67239007,46.68999069,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Provider,Child,Operating
+P416,24.73520386,46.68272392,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Provider,Infant,Operating
+P453,24.71841795,46.84397052,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P472,24.84731968,46.87780089,Diaa Jaber,Husain Alsayed,Islam Khalefa,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P032,24.46600579,39.59775634,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P034,24.47314618,39.62726073,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P043,24.45650294,39.60849861,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Child,Operating
+P060,24.47177942,39.61250019,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Haram,Child,Operating
+P116,24.47914457,39.64628853,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P117,24.47145215,39.60781518,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Haram,Organic,Operating
+P123,24.07440669,38.10442928,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Yanbu,Convenient,Organic,Operating
+P162,24.45143529,39.64577844,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P163,24.45744499,39.64188622,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P187,24.45391055,39.6147763,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P251,24.44004514,39.61231913,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Provider,Organic,Operating
+P254,24.42642695,39.54874662,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Organic,Operating
+P288,24.48314317,39.53725037,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Destination,Child,Operating
+P339,24.87089254,40.52926984,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Child,Operating
+P359,23.77905883,38.79691315,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Child,Operating
+P410,24.47152797,39.60922196,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Haram,Infant,Operating
+P432,24.01448427,38.21516948,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Yanbu,Convenient,Infant,Operating
+P435,24.47115549,39.6068764,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Haram,Infant,Operating
+P436,24.46071675,39.66596741,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Infant,Operating
+P437,24.48913823,39.58955618,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Infant,Operating
+P443,23.50316528,40.88502659,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Convenient,Infant,Operating
+P483,24.46581731,39.60463878,Husien Wagieh,I.Melegy,M. A. Abdulaziz,Madinah,Madinah,Madinah,Haram,Infant,Operating
+P008,21.3836533,39.83244823,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P010,21.41643551,39.82803766,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Haram,Organic,Operating
+P011,21.46336763,39.95501025,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P023,21.40285518,39.87563882,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P026,21.35198772,39.90772439,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P040,21.46559173,39.96045007,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P047,21.39712621,39.87294401,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P051,21.46983659,39.92919204,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P054,21.48383713,39.94141481,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P055,21.49302818,39.9584745,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P056,21.39791479,39.79941402,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P093,21.45906846,39.93663834,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P094,21.35505595,39.89167928,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P099,21.44297648,39.84708364,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P111,21.46102253,39.96513131,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P189,21.48729501,39.9414825,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P192,21.35610096,39.88611128,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P194,21.39405438,39.87955199,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P195,21.44470982,39.86018524,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P212,21.47983103,39.93646763,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Organic,Operating
+P333,21.35636278,39.87580491,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Convenient,Child,Operating
+P409,21.39555399,39.86933318,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Provider,Child,Operating
+P487,21.43706029,39.83130637,Husien Wagieh,A.Salem,M.Abo Eissa,Makkah,Makkah,Makkah,Haram,Infant,Operating
+P020,21.77962755,39.10053213,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Provider,Organic,Operating
+P028,21.80224284,39.14574536,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Provider,Organic,Operating
+P166,21.68757768,39.10718732,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P168,21.69313216,39.10489502,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P206,21.80725398,39.14863375,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P227,21.79284725,39.09051128,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P382,21.78489161,39.08977695,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P403,21.77215035,39.10049626,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P404,21.80964112,39.07561135,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P460,21.8115563,39.10309043,M. Salem,H.Mady,M.Eloutibi,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P035,24.56619304,46.6851628,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P065,24.61153826,46.63191551,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P068,24.56110846,46.84857257,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P075,24.56923424,46.75365104,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P077,24.57932234,46.56212817,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P079,24.72991663,46.76705746,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P097,24.73714712,46.70759403,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P147,24.67527969,46.82120347,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P148,24.78110691,46.77344869,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P181,24.7438601,46.7910556,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P182,24.5859172,46.55627244,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P249,24.56277624,46.52880442,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P253,24.61919909,46.757507,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Organic,Operating
+P308,24.62085625,46.53267838,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P367,24.84641887,46.82524939,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P375,24.76773159,46.80838634,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P376,24.61968587,46.73180648,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Child,Operating
+P378,24.57348596,46.76918937,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Provider,Child,Operating
+P413,24.13391542,47.27369414,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P424,24.52961082,46.65319319,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P467,24.91958189,46.79519421,Diaa Jaber,Husain Alsayed,Mahmoud Atif,Riyadh,Riyadh,Riyadh,Convenient,Infant,Operating
+P280,28.45503957,36.55217697,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Organic,Operating
+P281,28.41870431,36.57332492,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Organic,Operating
+P282,30.92547869,41.09605892,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Organic,Operating
+P283,30.95651101,41.00490773,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Organic,Operating
+P284,30.98926832,41.00836327,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Organic,Operating
+P287,28.42396787,36.56931562,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Organic,Operating
+P289,31.31451947,37.34560061,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Child,Operating
+P311,31.67124751,38.6683269,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Child,Operating
+P312,31.65607157,38.66970465,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Child,Operating
+P315,31.38031978,37.29290343,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Child,Operating
+P321,28.37224497,36.52131829,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Child,Operating
+P325,28.43884527,36.55448677,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Child,Operating
+P356,26.23896779,36.45746566,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Child,Operating
+P362,25.03773498,37.26103419,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Child,Operating
+P385,30.49333291,38.19963891,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Infant,Operating
+P386,30.99119604,41.04005654,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Infant,Operating
+P388,29.94837409,40.19389232,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Infant,Operating
+P394,29.96250528,40.21120214,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Arar,Convenient,Infant,Operating
+P401,27.61344979,38.51732692,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Infant,Operating
+P405,28.39558514,36.58866333,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Infant,Operating
+P438,29.62769398,43.54277756,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Arar,Arar,Convenient,Infant,Operating
+P446,27.62080457,38.53844402,Husien Wagieh,I.Melegy,Mahmoud Sorour,North,Tabuk,Tabuk,Convenient,Infant,Operating
+P021,21.52880732,40.60956879,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P062,21.35868485,40.42203414,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P063,21.34786156,40.43330746,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P066,21.45121685,40.50846781,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P071,21.35918785,40.42302185,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P081,21.46739135,40.47117294,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P084,21.42077466,40.48716856,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P106,21.42690786,40.49755083,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P109,21.46835572,40.49625439,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P118,21.44721796,40.50909788,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P133,21.21419983,41.63083587,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P142,21.76534149,40.65871368,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P160,21.44299092,40.48472756,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P173,21.45824323,40.45908181,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P213,21.44919904,40.51056001,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P243,21.50924487,40.50138632,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P268,21.47339583,40.46828975,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Child,Operating
+P292,21.44913355,40.44369636,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Organic,Operating
+P313,21.43631685,40.48861415,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Provider,Organic,Operating
+P329,21.21416829,41.63820376,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Child,Operating
+P482,21.43652477,40.49223392,HEAD4,I.Elsokkary,Omar Azazy,Taif,Taif,Taif,Convenient,Infant,Operating
+P129,21.75798199,39.20574294,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P136,21.61062884,39.23116911,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Provider,Organic,Operating
+P167,21.79479806,39.13446825,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P170,21.80622486,39.15041613,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P171,21.59830969,39.25021864,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P207,21.79703381,39.13750951,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P208,21.76194558,39.19857584,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P221,21.76162619,39.22333096,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P224,21.59585917,39.24883873,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P247,21.75495709,39.18569488,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P252,21.84659829,39.19460958,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P290,21.61218167,39.24027104,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Organic,Operating
+P305,21.59719372,39.25428305,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P334,22.08825448,39.31385352,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P335,21.84653916,39.20271683,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Destination,Child,Operating
+P344,21.97208429,39.36216781,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P345,22.79948181,39.03554243,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Child,Operating
+P411,22.79764184,39.03308305,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P420,22.31078169,39.10172086,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P459,21.77561271,39.21268297,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Infant,Operating
+P475,21.59419228,39.14375049,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Provider,Infant,Operating
+P476,21.85833606,39.19297156,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Convenient,Pipeline,Pipeline
+P485,21.58327716,39.22927725,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,Provider,Infant,Operating
+P498,21.7576429,39.07661051,M. Salem,H.Mady,Osama Eisa,Jeddah,JED-1,Jeddah,No Data,Pipeline,Pipeline
+P030,21.26742112,40.45646676,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P072,21.24732448,40.44331295,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P074,21.24703384,40.44385916,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P088,21.26527772,40.42876559,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P131,21.22018898,40.54151819,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P134,21.20882723,40.58356267,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P161,21.21098827,40.57507362,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P269,21.26327893,40.45966863,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Convenient,Organic,Operating
+P348,21.26445619,40.41388637,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Provider,Child,Operating
+P349,21.26496069,40.42128516,HEAD4,I.Elsokkary,Reem  Eloutibi,Taif,Taif,Taif,Provider,Child,Operating
+P012,19.58045954,41.66530412,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P135,19.79035061,41.43429121,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-mukhawa,Convenient,Infant,Operating
+P174,20.07386647,41.44850979,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P219,20.27022176,41.65281493,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P220,19.86601472,41.56810936,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P222,20.14458984,41.29168643,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P223,20.01225374,41.46485775,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Organic,Operating
+P234,19.78133778,41.43806108,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-mukhawa,Convenient,Organic,Operating
+P235,19.12641219,41.08164978,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Qunfuthah,Qunfuthah,Convenient,Organic,Operating
+P267,19.11836603,41.08540529,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Qunfuthah,Qunfuthah,Provider,Child,Operating
+P294,19.13362415,41.07841872,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Qunfuthah,Qunfuthah,Convenient,Organic,Operating
+P297,20.04820851,41.44824454,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Child,Operating
+P299,19.86436538,41.56491593,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Provider,Organic,Operating
+P301,19.77629311,41.43624922,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-mukhawa,Provider,Organic,Operating
+P302,19.53530452,41.04943696,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Muzaylif,Provider,Organic,Operating
+P314,19.8648056,41.57333263,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Child,Operating
+P316,20.01654867,41.47141599,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Infant,Operating
+P328,20.16980934,41.38122465,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Child,Operating
+P347,18.97872819,41.32008265,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Child,Operating
+P428,20.27046408,41.65865461,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Infant,Operating
+P430,20.06107726,41.44851289,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Convenient,Infant,Operating
+P470,20.00330563,41.46687233,HEAD4,I.Elsokkary,Yaser Abdul Ati,Al-Bahah,Al-Bahah,Al-Bahah,Provider,Infant,Operating
